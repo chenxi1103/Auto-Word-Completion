@@ -1,4 +1,4 @@
-# Automatically-Word-Completion
+# Auto-Word-Completion
 Realized Auto-Word-Completion by :
 - Algorithm: N-Gram model
 - Backend: MapReduce/MySQL
