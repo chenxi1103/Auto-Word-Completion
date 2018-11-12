@@ -50,6 +50,9 @@ Then put all the data into MySQL to realize predict N Gram based on N Gram.
 order by count
 limit 10;
 
+### Result Display
+![image](https://github.com/chenxi1103/Auto-Word-Completion/blob/master/result.png)
+
 ### Extension Problems:
 - Why Database(MySQL) is required:
 > Autocomplete task requires a key-value pair structure to realize. Everytime when user input a word or phrase, the frontend would sent the data(this word/phrase) to backend to implement with database to do query job and get the result to display on the website.
