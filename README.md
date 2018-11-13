@@ -66,3 +66,7 @@ And if a blackout happen, the data would be lost.
 > First column: Input phrase
 Second column: following phrase
 Third column: Probability
+
+### Reference: Develop Environment
+- Java SE8
+- Hadoop 2.7.2
